@@ -1,3 +1,9 @@
+/// Wishlist Page
+///
+/// Provider 상태 관리를 사용하여 사용자가 위시리스트에 추가한 제품을 보여주는 위시리스트 페이지 파일입니다.
+///
+/// trash 아이콘을 클릭하면 위시리스트에서 항목이 삭제됩니다.
+
 // Copyright 2018-present the Flutter authors. All Rights Reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
