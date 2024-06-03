@@ -1,3 +1,11 @@
+/// Add Product Page
+///
+/// 새 제품을 데이터베이스에 추가하기 위한 제품 추가 페이지 파일입니다.
+///
+/// 사용자가 별도로 제품 이미지를 선택하지 않았다면 기본 이미지가 표시됩니다. 제품 이미지를 선택하지 않고 저장 버튼을 클릭하면 기본 이미지가 제품 이미지로 저장됩니다.
+///
+/// 이미지는 image-picker 플러그인을 통해 로드되고, 저장소에 업로드됩니다.
+
 // Copyright 2018-present the Flutter authors. All Rights Reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
