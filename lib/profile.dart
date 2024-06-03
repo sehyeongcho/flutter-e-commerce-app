@@ -1,3 +1,11 @@
+/// Profile Page
+///
+/// 로그인한 사용자의 정보를 표시하는 프로필 페이지 파일입니다.
+///
+/// logout 아이콘을 클릭하면 로그인 페이지로 이동하고 로그아웃됩니다.
+///
+/// Google 로그인한 경우 프로필 사진, UID, 이메일 정보를 로드하고, 익명 로그인(게스트)한 경우 UID만 로드하고 이미지는 기본 이미지, 이메일은 Anonymous 문자열을 표시합니다.
+
 // Copyright 2018-present the Flutter authors. All Rights Reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
