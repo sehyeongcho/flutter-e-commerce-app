@@ -21,6 +21,8 @@
 /// pencil 아이콘을 클릭하면 항목의 정보를 수정(업데이트)할 수 있고, trash 아이콘을 클릭하면 항목을 삭제할 수 있습니다. 이 때, 사용자의 UID가 게시물 작성자와 다를 경우 수정 및 삭제되지 않습니다.
 ///
 /// thumb_up 아이콘을 처음 클릭하면 숫자 1이 추가되고 스낵바가 나타납니다. 아이콘을 두 번 이상 눌러도 항목당 좋아요 수를 한 개만 늘릴 수 있고 스낵바에서 주의 사항을 알려줍니다.
+///
+/// floating action 버튼을 누르면 shopping_cart 아이콘이 check 아이콘으로 변경되고 제품이 위시리스트에 추가됩니다.
 
 // Copyright 2018-present the Flutter authors. All Rights Reserved.
 //
