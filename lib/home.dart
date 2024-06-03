@@ -1,3 +1,15 @@
+/// Item Page
+///
+/// 제품 카드, 제품을 추가할 수 있는 add 아이콘, 사용자의 프로필을 볼 수 있는 profile 아이콘으로 구성된 아이템 페이지 파일입니다.
+///
+/// 각 카드에는 제품 이미지, 이름, 가격이 명시되어 있습니다. 제품 이미지는 기본 이미지를 사용하지 않고 Firebase 저장소에 저장한 이미지를 사용합니다.
+///
+/// more 버튼을 클릭하면 디테일 페이지로 이동합니다.
+///
+/// add 아이콘을 클릭하면 새 제품을 데이터베이스에 추가할 수 있습니다.
+///
+/// profile 아이콘을 클릭하면 프로필 페이지로 이동합니다.
+
 // Copyright 2018-present the Flutter authors. All Rights Reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
