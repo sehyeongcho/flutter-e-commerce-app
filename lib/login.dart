@@ -1,3 +1,7 @@
+/// Login Page
+///
+/// Firebase 인증에서 제공하는 Google 로그인, 익명 로그인(게스트)을 사용한 로그인 페이지 파일입니다.
+
 // Copyright 2018-present the Flutter authors. All Rights Reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
