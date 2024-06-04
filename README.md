@@ -16,3 +16,6 @@ Flutter, Firebase Authentication, Cloud Firestore, Cloud Storage를 이용한 �
 - Firebase Authentication
 - Cloud Firestore
 - Cloud Storage
+
+## 학습 내용
+[flutter-e-commerce-app wiki](https://github.com/sehyeongcho/flutter-e-commerce-app/wiki)
